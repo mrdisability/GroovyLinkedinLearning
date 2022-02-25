@@ -1,6 +1,7 @@
-import java.awt.TexturePaintContext
-
 class Exercises {
+    // recursive loop that prints a 2d array in groovy
+    // you can also try the 7 guesses game for a number within 100
+
     static void main(String[] args) {
 
         def instrument = 'IN Cell'
